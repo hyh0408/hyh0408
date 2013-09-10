@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>kr.ac.jejuuniv</groupId>
   <artifactId>hyh0408</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   
-  <version>0.0.5-SNAPSHOT</version>
+  <version>0.0.6-SNAPSHOT</version>
   <name>hyh0408 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
